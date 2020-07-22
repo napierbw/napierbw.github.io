@@ -81,8 +81,8 @@ Clubs
     * RamDev, Richmond, VA, September/2018 – May/2020
     * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – May/2019
     
-    * VCU eSports Competitive League of Legends team, November/2018 - Present
-    * Intervarsity, May/2018 - Present
+    * VCU eSports Competitive League of Legends team player/manager, November/2018 - Present
+    * Intervarsity, May/2018 - May/2020
     
 Odd Jobs
 :   
