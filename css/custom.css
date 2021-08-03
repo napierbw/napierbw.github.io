@@ -52,6 +52,10 @@ body, html {
     font: 20px "Lato", sans-serif;
     color: #111;
   }
+
+  .h-100 {
+    height: 40vh;
+  }
   
   /* Turn off parallax scrolling for tablets and phones */
   @media only screen and (max-device-width: 1024px) {
