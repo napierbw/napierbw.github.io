@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+Benjamin Napier
+============
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-----------------------     ----------------------------
+* napierbw51@gmail.com
+* 209 Norwood Dr., Colonial Heights, VA, United States 23834
+* (804) 898-4669
+-----------------------     ----------------------------
 
-## Available Scripts
+Education
+---------
 
-In the project directory, you can run:
+2017-2020
+:   **BSc, Computer Science with a concentration in data science**; Virginia Commonwealth University
 
-### `npm start`
+    *GPA: 3.77*   *Honors College*     *Minor: Mathematics*
+    
+Experience
+----------
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Service Desk Technician, VCU, Richmond, VA, November/2018-January/2020:**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Embedded technician for the VCU Police Department
 
-### `npm test`
+* Working with other technicians to cover all police IT needs, communicating with vendors for Scantron/CritiCall/etc., imaging police devices, cell phone upkeep
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Webmaster for https://police.vcu.edu/
 
-### `npm run build`
+**Undergraduate Research Assistant, VCU, Richmond, VA, September/2018-January/2020**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Teaching assistant for Introduction to Computer Science and Data Structures and Algorithms classes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Research roles include conducting experiments to determine how students best learn and attending conferences to present findings
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Service Desk Technician, VCUCard Office, Richmond, VA, May/2018-November/2018**
 
-### `npm run eject`
+* Printed hundreds of identification cards, marketed VCUCard services to incoming students by going to orientations to spread information about VCUCard, and assisted customers over the phone.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Computer Technology Intern, Colonial Heights Public Schools, Colonial Heights, VA, Summers 2014-2017**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Imaged hundreds of computers and laptops, improved server racks by reorganizing cables, installed wireless access points across five schools, kept inventory of hardware in five schools using Excel
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Lead a team of four students by ensuring proper completion of imaging, installation, and inventory
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+Technical Experience
+--------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Certifications
+:   
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    * CompTIA A+
+    * VCIN Level 4 Security
 
-### Code Splitting
+Academic Projects
+:   
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    * Hot Wheels, VCU, Richmond, VA, Fall/2019 2nd Place, RamHacks
+         * Created a solution for CarMax to better mark their vehicles when they are reserved by
+         customers by combining Unity AR, MongoDB Atlas clusters, Google Cloud Platform, and PyMongo.
 
-### Analyzing the Bundle Size
+    * WorkClout, VCU, Richmond, VA, Spring/2019
+         * Built an Android application over the course of a semester that allows personalization 
+         of a user profile, login restrictions, and storing of user data in a FireStore database
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Primary Languages
+:   
 
-### Making a Progressive Web App
+    * Java           (Using since 2016)      https://github.com/napierbw/WorkClout
+    * Python         (Using since 2017)      https://github.com/napierbw/SodaBot
+    * HTML/CSS/JS    (Using since 2017)      https://napierbw.github.io/      https://github.com/napierbw/Boids
+    * C#             (Using since 2018)      https://github.com/napierbw/HotWheelsCS
+    * Powershell     (Using since 2018)      https://github.com/napierbw/Hive_of_Neus
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Activities
+--------------------
 
-### Advanced Configuration
+Clubs
+:   
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    * RamDev, Richmond, VA, September/2018 – May/2020
+    * Linux User Group (VCU-LUG), Richmond, VA, September/2018 – May/2019
+    
+    * VCU eSports Competitive League of Legends team player/manager, November/2018 - Present
+    * Intervarsity, May/2018 - May/2020
+    
+Odd Jobs
+:   
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    * Musician for Virginia Commonwealth University Honors College Graduation Ceremonies 
+         (May 2017, December 2018, May 2018)
+    
+    * Kentucky Set Running teacher at Christmas Country Dance School 
+         (December 2017, December 2018, December 2019)
